@@ -1,1 +1,2 @@
-# DesafioDIO
+# Desafio DIO
+💻 O projeto foi criado para um desafio proposto pelo DIO Bootcamp, para testar os conhecimentos a respeito do uso do Excel e dos conteúdos apresentados no decorrer do curso. A aplicação desenvolvida em MS Excel consiste em uma ferramenta simples que tem como objetivo principal simular investimentos em fundos imobiliários. A planilha permite calcular o valor total investido, o patrimônio acumulado e os dividendos mensais, ajudando o usuário a entender melhor o impacto de seus investimentos ao longo do tempo.
